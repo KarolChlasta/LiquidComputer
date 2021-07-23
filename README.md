@@ -1,2 +1,2 @@
 # VisualSystem
-Bio-Algorithms and Med-Systems, ISSN: 1896-530X
+Brain Sciences, ISSN: 2076-3425
